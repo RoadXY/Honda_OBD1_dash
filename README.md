@@ -9,7 +9,7 @@ This project serves as a bridge between a classic Honda OBD1 ECU and modern IoT 
 Any Honda engine with chipped OBD1 ECU with eCtune or Honda Tuning Suite (ISRv3 protocol)
 
 ## 🛠 Features
-- **Live Datalogging:** Direct TTL Serial communication with the P06 ECU using the Honda Tuning Suite protocol (38400 Baud).
+- **Live Datalogging:** Bluetooth Serial communication with the P06 ECU using the Honda Tuning Suite protocol (38400 Baud).
 - **WiFi Connectivity:**
   - Automatic time synchronization via NTP.
   - Periodic battery voltage reporting to MQTT.
