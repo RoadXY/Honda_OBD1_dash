@@ -3,7 +3,8 @@
 An ESP32-based intelligent dashboard and data logger for a Honda engines using chipped OBD1 ECU (P06, P28, P30, P72 etc) making use of the eCtune/HTS ISRv3 datalogging protocol.
 
 ## 🚗 Project Overview
-This project serves as a bridge between a classic Honda OBD1 ECU and modern IoT capabilities. It provides real-time engine monitoring, automatic data logging to SD-card, and wireless battery health monitoring.
+This project gives the driver essential data on a screen while driving. 
+It also can serve (optional) as a bridge between a classic Honda OBD1 ECU and modern IoT capabilities. It provides real-time engine monitoring, automatic data logging to SD-card, and wireless battery health monitoring.
 
 ### Vehicle Specifications:
 Any Honda engine with chipped OBD1 ECU with eCtune or Honda Tuning Suite (ISRv3 protocol)
